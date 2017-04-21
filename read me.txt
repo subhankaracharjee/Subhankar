@@ -1,0 +1,34 @@
+PHP-MySQL Session based LOGIN System
+
+Modules ->
+Register, upload profile picture, login, welcome user message, Logout.
+
+
+About Developer
+-------------------------------------------------
+Developed by TechnologyMantraBlog.com
+Author : Mr. Hrishabh Sharma
+FB : https://www.facebook.com/hrishabh123
+Website : http://technologymantrablog.com/
+
+--------------------------------------------------
+
+
+Please like and subsribe our youtube channel
+and other social media pages =>
+
+https://www.youtube.com/channel/UCU2GmNUZa2SQCgOxb89Y2ig
+
+https://www.facebook.com/technologymantra21
+
+https://plus.google.com/+TechnologyMantraBlogspotIn21
+
+https://twitter.com/techmantrablog
+
+https://in.linkedin.com/pub/technology-mantra/96/757/701
+
+
+----------------------------------
+
+- Team
+TechnologyMantraBlog.com
